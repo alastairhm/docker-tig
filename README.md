@@ -11,7 +11,7 @@ docker run --rm -ti -v $(pwd):/mnt ghcr.io/alastairhm/docker-tig:latest
 
 Alias
 ```bash
-alias tig='docker run --rm -ti -v $(pwd):/mnt ghcr.io/alastairhm/docker-tig:latest
+alias tig='docker run --rm -ti -v $(pwd):/mnt ghcr.io/alastairhm/docker-tig:latest'
 ```
 
 ```text
