@@ -11,6 +11,6 @@ docker run --rm -ti -v $(pwd):/mnt alastairhm/docker-tig
 
 Alias
 ```bash
-alias tig='docker run --rm -ti -v $(pwd):/mnt alastairhm/tig'
+alias tig='docker run --rm -ti -v $(pwd):/mnt alastairhm/docker-tig'
 ```
 
