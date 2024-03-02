@@ -1,4 +1,4 @@
-FROM ubuntu:21.04
+FROM ghcr.io/alastairhm/ubuntu-base:1.1.0
 
 ENV DEBIAN_FRONTEND=noninteractive
 
