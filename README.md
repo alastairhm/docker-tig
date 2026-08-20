@@ -22,3 +22,7 @@ alias tig='docker run --rm -ti -v $(pwd):/mnt ghcr.io/alastairhm/docker-tig:late
  / ____ \| |  | | |  | |
 /_/    \_\_|  |_|_|  |_| (c) 2021
 ```
+
+## On the blog
+
+* https://blog.0x32.co.uk/posts/dockertig/
